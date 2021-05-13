@@ -1,0 +1,12 @@
+{
+    "name": "max-min-backport",
+    "title": "Max & Min Modifier Backport",
+    "description": "This module creates roll modifiers for minimum and maximum results.",
+    "author": "Aaron Lip",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion": "0.7.9",
+    "scripts": [
+        "scripts/main.js"
+    ]
+}
